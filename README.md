@@ -1,5 +1,5 @@
 # node-api-starter
-A starter template for developing rest apis using Expressjs
+A starter template for developing rest apis using Expressjs and MongoDB
 
 You can get started for developing Rest API's using Nodejs and expressjs simply by just cloning this repo.
 
